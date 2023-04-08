@@ -1,0 +1,10 @@
+<resources>
+
+    <string name="app_name">WallpaperTestTask</string>
+    <string name="loading">Loading…</string>
+    <string name="error_message">An error occurred :(</string>
+    <string name="set_button">Set this picture as a wallpaper</string>
+    <string name="successful">Successful</string>
+    <string name="issue">Something went wrong :(</string>
+
+</resources>
